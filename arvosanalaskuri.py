@@ -1,4 +1,5 @@
-k = input("Kurssi: 1. OhPe, 2.Ohja: ")
+k = input("Kurssi: 1. OhPe, 2.OhJa: ")
+
 p = input("Prosentit (erota pilkuilla): ")
 kp = int(input("Koepisteet: "))
 
