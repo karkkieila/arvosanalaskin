@@ -1,51 +1,45 @@
 ajat = """2 - 5 tuntia
+8 - 12 tuntia
+5 - 8 tuntia
+2 - 5 tuntia
+5 - 8 tuntia
+5 - 8 tuntia
 2 - 5 tuntia
 2 - 5 tuntia
+5 - 8 tuntia
+5 - 8 tuntia
 5 - 8 tuntia
 8 - 12 tuntia
-2 - 5 tuntia
+8 - 12 tuntia
 5 - 8 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-Alle kaksi tuntia
+8 - 12 tuntia
 5 - 8 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-5 - 8 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
 12 - 15 tuntia
+2 - 5 tuntia
+5 - 8 tuntia
+5 - 8 tuntia
+5 - 8 tuntia
+5 - 8 tuntia
+5 - 8 tuntia
+5 - 8 tuntia
+5 - 8 tuntia
 5 - 8 tuntia
 2 - 5 tuntia
 2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
 5 - 8 tuntia
-Alle kaksi tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-5 - 8 tuntia
-2 - 5 tuntia
 8 - 12 tuntia
 5 - 8 tuntia
+8 - 12 tuntia
+5 - 8 tuntia
+8 - 12 tuntia
 5 - 8 tuntia
 2 - 5 tuntia
-5 - 8 tuntia
 2 - 5 tuntia
 2 - 5 tuntia
 5 - 8 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-Alle kaksi tuntia
-Alle kaksi tuntia
-2 - 5 tuntia
 5 - 8 tuntia
+5 - 8 tuntia
+2 - 5 tuntia
 5 - 8 tuntia
 2 - 5 tuntia
 2 - 5 tuntia
@@ -55,57 +49,15 @@ Alle kaksi tuntia
 5 - 8 tuntia
 8 - 12 tuntia
 2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
 5 - 8 tuntia
-2 - 5 tuntia
-Alle kaksi tuntia
-2 - 5 tuntia
+5 - 8 tuntia
 5 - 8 tuntia
 8 - 12 tuntia
-2 - 5 tuntia
-5 - 8 tuntia
-2 - 5 tuntia
-Alle kaksi tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-Alle kaksi tuntia
-2 - 5 tuntia
-5 - 8 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-5 - 8 tuntia
-5 - 8 tuntia
-5 - 8 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-Alle kaksi tuntia
 5 - 8 tuntia
 2 - 5 tuntia
 2 - 5 tuntia
 8 - 12 tuntia
-2 - 5 tuntia
-5 - 8 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-8 - 12 tuntia
-5 - 8 tuntia
-2 - 5 tuntia
-5 - 8 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-5 - 8 tuntia
-2 - 5 tuntia
-2 - 5 tuntia
-Alle kaksi tuntia""".split("\n")
+2 - 5 tuntia""".split("\n")
 
 s = 0
 for aika in ajat:
